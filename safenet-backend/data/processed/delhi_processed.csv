@@ -1,0 +1,7 @@
+zone_id,zone_name,lat,lng,traffic_congestion,crime_incidents,population_density,time_of_day,weather_severity,emergency_response_minutes,historical_incidents,risk_label,timestamp
+del-cp,Connaught Place,28.6304,77.2177,0.95,78,9500,evening,0.4,8.0,25,High,2026-08-29 23:07:03
+del-karol-bagh,Karol Bagh,28.6441,77.1895,0.9,65,11000,night,0.35,18.0,19,High,2026-08-29 23:07:03
+del-hauz-khas,Hauz Khas,28.5494,77.2001,0.75,42,6000,evening,0.3,12.0,10,Medium,2026-08-29 23:07:03
+del-dwarka,Dwarka Sector 10,28.5818,77.0594,0.6,38,4500,night,0.3,25.0,14,High,2026-08-29 23:07:03
+del-chandni-chowk,Chandni Chowk,28.6562,77.2301,0.98,40,15000,afternoon,0.4,22.0,15,Medium,2026-08-29 23:07:03
+del-rohini,Rohini,28.7159,77.1141,0.5,22,3500,morning,0.3,14.0,4,Low,2026-08-29 23:07:03

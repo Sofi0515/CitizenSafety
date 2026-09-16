@@ -1,0 +1,7 @@
+zone_id,zone_name,lat,lng,traffic_congestion,crime_incidents,population_density,time_of_day,weather_severity,emergency_response_minutes,historical_incidents,risk_label,timestamp
+blr-electronic-city,Electronic City,12.8399,77.677,0.82,68,4500,night,0.3,22.0,15,High,2026-08-29 23:07:03
+blr-whitefield,Whitefield,12.9698,77.75,0.88,60,3800,evening,0.35,24.0,12,High,2026-08-29 23:07:03
+blr-majestic,Majestic,12.9774,77.5729,0.92,55,8000,evening,0.3,10.0,18,High,2026-08-29 23:07:03
+blr-yeshwanthpur,Yeshwanthpur,13.0238,77.5385,0.7,45,5000,afternoon,0.4,15.0,8,Medium,2026-08-29 23:07:03
+blr-koramangala,Koramangala,12.9279,77.6271,0.65,40,6500,evening,0.35,12.0,7,Medium,2026-08-29 23:07:03
+blr-indiranagar,Indiranagar,12.9719,77.6412,0.45,20,3000,morning,0.3,8.0,3,Low,2026-08-29 23:07:03

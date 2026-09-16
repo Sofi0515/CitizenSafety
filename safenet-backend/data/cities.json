@@ -1,0 +1,26 @@
+{
+  "bengaluru": {
+    "label": "Bengaluru, Karnataka",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "zoom": 11
+  },
+  "delhi": {
+    "label": "Delhi",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "zoom": 11
+  },
+  "mumbai": {
+    "label": "Mumbai, Maharashtra",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "zoom": 11
+  },
+  "uttar_pradesh": {
+    "label": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "zoom": 8
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "model_name": "Accident Severity Random Forest v2 \u2014 trained 2026-08-30",
+  "trained_at": "2026-08-30 09:46:53",
+  "n_samples": 3000,
+  "class_balance": {
+    "Low": 1034,
+    "High": 985,
+    "Medium": 981
+  },
+  "features": [
+    "State Name",
+    "City Name",
+    "Vehicle Type Involved",
+    "Weather Conditions",
+    "Road Type",
+    "Road Condition",
+    "Lighting Conditions",
+    "Traffic Control Presence",
+    "Driver Gender",
+    "Driver License Status",
+    "Alcohol Involvement",
+    "Accident Location Details",
+    "Number of Vehicles Involved",
+    "Speed Limit (km/h)",
+    "Driver Age",
+    "hour",
+    "is_night",
+    "is_weekend"
+  ]
+}

@@ -1,0 +1,7 @@
+zone_id,zone_name,lat,lng,traffic_congestion,crime_incidents,population_density,time_of_day,weather_severity,emergency_response_minutes,historical_incidents,risk_label,timestamp
+mum-colaba,Colaba,18.9067,72.8147,0.85,50,9000,evening,0.5,9.0,12,Medium,2026-08-29 23:07:04
+mum-bandra,Bandra West,19.06,72.8295,0.9,58,8500,night,0.45,14.0,14,High,2026-08-29 23:07:04
+mum-andheri,Andheri East,19.1179,72.8631,0.95,62,12000,evening,0.4,16.0,17,High,2026-08-29 23:07:04
+mum-kurla,Kurla Junction,19.0726,72.8845,0.88,64,10500,night,0.45,20.0,20,High,2026-08-29 23:07:04
+mum-dadar,Dadar Central,19.0178,72.8478,0.92,45,11500,afternoon,0.35,10.0,9,Medium,2026-08-29 23:07:04
+mum-borivali,Borivali National Park,19.229,72.8573,0.4,15,2000,morning,0.3,22.0,2,Low,2026-08-29 23:07:04

@@ -1,0 +1,1 @@
+{"city_id": "delhi", "trained_at": "2026-08-29 23:07:04", "n_samples": 6, "features": ["traffic_congestion", "crime_incidents_norm", "population_density_norm", "time_of_day_encoded", "weather_severity", "emergency_response_norm_inv", "historical_incidents_norm"], "model_name": "RandomForest v1.0 \u2014 trained 2026-08-29"}
